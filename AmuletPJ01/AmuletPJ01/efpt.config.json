@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"AmuletturtleContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"AmuletPJ01","SelectedToBeGenerated":0,"Tables":["dbo.TbAdmin","dbo.TbAmulet","dbo.TbManual","dbo.TbMonk"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}

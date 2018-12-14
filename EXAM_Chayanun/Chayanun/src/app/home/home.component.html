@@ -1,0 +1,44 @@
+<app-content>
+
+  <div>
+    <br>
+  <div>
+<div class="pull-right">
+  
+    <button type="button" class="btn btn-danger"(click)="gotoCreateAmu()">เพิ่มข้อมูล</button>
+</div>
+  </div>
+  <br>
+  <table class="table">
+    <thead class="thead">
+      <tr>
+         
+        <th scope="col">ชื่อรุ่นพระ</th>
+        <th scope="col">ปีที่สร้าง</th>
+        <th scope="col">วัดที่สร้าง</th>
+        <th scope="col">ราคาปัจจุบัน</th>
+       
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of ListTbAmulet">
+       
+        <td>{{item.generation}}</td>
+        <td>{{item.year}}</td>
+        <td>{{item.place}}</td>
+        <td>{{item.price}}</td>
+       
+        <td>
+              <div class="btn-group" role="group" aria-label="Basic example">
+                  <button class="btn btn-info" [routerLink]="['/home/edit',item.generation]">แก้ไข</button> 
+                  <button type="button" (click)="onDeleteData(item.generation)" class="btn btn-danger">ลบ</button>
+                 
+                </div>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+</div>
+
+</app-content>

@@ -1,0 +1,13 @@
+D:\AmuletPJ01\AmuletPJ01\bin\Debug\netcoreapp2.1\AmuletPJ01.deps.json
+D:\AmuletPJ01\AmuletPJ01\bin\Debug\netcoreapp2.1\AmuletPJ01.runtimeconfig.json
+D:\AmuletPJ01\AmuletPJ01\bin\Debug\netcoreapp2.1\AmuletPJ01.runtimeconfig.dev.json
+D:\AmuletPJ01\AmuletPJ01\bin\Debug\netcoreapp2.1\AmuletPJ01.dll
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.csproj.CoreCompileInputs.cache
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.RazorAssemblyInfo.cache
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.RazorAssemblyInfo.cs
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.AssemblyInfoInputs.cache
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.AssemblyInfo.cs
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.RazorTargetAssemblyInfo.cache
+D:\AmuletPJ01\AmuletPJ01\bin\Debug\netcoreapp2.1\AmuletPJ01.pdb
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.dll
+D:\AmuletPJ01\AmuletPJ01\obj\Debug\netcoreapp2.1\AmuletPJ01.pdb

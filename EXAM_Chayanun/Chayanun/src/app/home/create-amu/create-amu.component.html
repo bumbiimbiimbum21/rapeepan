@@ -1,0 +1,40 @@
+<app-content>
+  <br>
+  <form [formGroup]="form"(submit)="onSubmit()">
+    
+    <div class="row">
+      <label for="">ชื่อรุ่นพระ</label>
+      <input type="text" class="form-control"  formControlName="generation">
+    </div>
+    <br>
+  
+
+    <div class="row">
+      <label for="">ปีที่สร้าง</label>
+      <input type="text" class="form-control"  formControlName="year">
+    </div>
+
+    <div class="row">
+   
+      <label for="">วัดที่สร้าง</label>
+      <input type="text" class="form-control"  formControlName="place">
+     
+    </div>
+    <div class="row">
+        <label for="">ราคาปัจจุบัน</label>
+        <input type="text" class="form-control" formControlName="price">
+      </div>
+
+      <br>
+      
+      
+        <div class="pull-right">
+
+            <button type="submit" class="btn btn-primary">บันทึก</button>
+          
+        </div>
+        <br>
+        <br>
+        
+  </form>
+</app-content>
